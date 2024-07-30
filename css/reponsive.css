@@ -1,0 +1,21 @@
+@media (min-width:1024px){
+    .container{
+        display: block;
+        width: 1600px;
+
+    }
+ }
+ @media (min-width: 740px) and(max-width:1023px) {
+    .container{
+        display: block;
+        padding: 30px;
+        width: 1600px;
+    }
+ }
+ @media (min-width:740){
+    .container{
+        padding: 30px;
+        display: block;
+        width: 1600px;
+    }
+ }
